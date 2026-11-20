@@ -1,4 +1,4 @@
-# TSM CLONE PRO
+# UNITY-TOOL
 
 Phone service GUI (PySide6) that wraps command-line tools kept in `vendor/`:
 
@@ -27,13 +27,13 @@ Unity/                      <- repo root
     edl/
     spd/ (or spdclient/)
     meta/
-      meta_readonly.py    <- own script, just commit it; not a submodule
+      meta.py    <- own script, just commit it; not a submodule
     spd_dump/             <- prebuilt spd_dump binary (committed directly)
     Heimdall/             <- built binary: build/bin/heimdall
 ```
 
 The app finds tools in `vendor/` next to the package. To use another folder,
-set `TSM_TOOLS_DIR=/path/to/vendor`.
+set `UNITY_TOOLS_DIR=/path/to/vendor`.
 
 ## Setting up a new system (Debian / Ubuntu)
 
