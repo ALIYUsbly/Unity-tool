@@ -1,0 +1,12 @@
+[submodule "vendor/Heimdall"]
+	path = vendor/Heimdall
+	url = https://github.com/Benjamin-Dobell/Heimdall.git
+[submodule "vendor/edl"]
+	path = vendor/edl
+	url = https://github.com/bkerler/edl.git
+[submodule "vendor/spdclient"]
+	path = vendor/spdclient
+	url = https://github.com/ABDO10DZ/SpdClient.git
+[submodule "vendor/mtkclient"]
+	path = vendor/mtkclient
+	url = https://github.com/bkerler/mtkclient.git
