@@ -1,0 +1,11 @@
+{
+  "id": "xiaomi-4x-satoni",
+  "brand": "Xiaomi",
+  "model": "4x",
+  "codename": "satoni",
+  "platform": "qualcomm",
+  "loader": null,
+  "sector_size": null,
+  "memory": "UFS",
+  "notes": ""
+}

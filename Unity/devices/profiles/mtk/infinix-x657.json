@@ -1,0 +1,16 @@
+
+{
+  "id": "infinix-x657",
+  "brand": "Infinix",
+  "model": "x657",
+  "codename": "x657",
+  "board":"Infinix-X657",
+  "platform": "mtk",
+  "loader": null,
+  "preloader": "",
+  "parttype": null,
+  "chip-id":"MT6580",
+  "frp_lba": 96256, 
+  "para_lba": 7168, 
+  "notes": "Smart 5. Offsets from AndroidUtility log." 
+}

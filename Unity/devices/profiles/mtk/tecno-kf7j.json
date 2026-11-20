@@ -1,0 +1,15 @@
+{
+  "id": "tecno-kf7j",
+  "brand": "Tecno",
+  "model": "KF7j",
+  "codename": "KF7j-OP",
+  "platform": "mtk",
+  "board":"TECNO-KF7j",
+  "loader": null,
+  "preloader": "",
+  "parttype": null,
+  "chip-id": "MT6768",
+  "notes": "Shark 5. FRP+para offsets verified working 2026-11-16.",
+  "frp_lba": 102464,
+  "para_lba": 60480
+}

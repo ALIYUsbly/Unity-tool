@@ -1,0 +1,12 @@
+{
+  "id": "redmi_10c_fog",
+  "brand": "Xiaomi",
+  "model": "Redmi 10C",
+  "codename": "fog",
+  "platform": "qualcomm",
+  "memory": null,
+  "sector_size": null,
+  "loader": "loaders/xiaomi/REDMI 10C.elf",
+  "backup_partitions": ["modemst1", "modemst2", "fsg", "fsc"],
+  "notes": "Fill in memory type, sector size and loader after testing on a real unit. null = auto."
+}

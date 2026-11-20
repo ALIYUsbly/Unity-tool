@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Customer / device data - never commit
+backups/
+data/backups/
+*.partial
+*hwparam.json
+*/Loaders/
+*.zip
+release-build
+protected-tools
+# Built tools
+vendor/*/build/

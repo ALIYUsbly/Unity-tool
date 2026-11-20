@@ -1,0 +1,12 @@
+{
+  "id": "oppo-a37m-a37m",
+  "brand": "Oppo",
+  "model": "A37m",
+  "codename": "A37m",
+  "platform": "mtk",
+  "loader": null,
+  "board":"A37m",
+  "preloader": "loaders/mtk/oppo-a37m-a37m_preloader_oppo6750_15127.bin",
+  "parttype": null,
+  "notes": ""
+}

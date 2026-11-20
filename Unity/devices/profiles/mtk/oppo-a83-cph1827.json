@@ -1,0 +1,12 @@
+{
+  "id": "oppo-a83-cph1827",
+  "brand": "Oppo",
+  "model": "A83",
+  "codename": "CPH1827",
+  "platform": "mtk",
+  "loader": null,
+  "board":"CPH1827",
+  "preloader": "loaders/mtk/oppo-a83-cph1827_preloader_oppo6763_17101.bin",
+  "parttype": null,
+  "notes": ""
+}
