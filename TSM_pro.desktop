@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Unity-tool
+Comment=Professional Multi-Chipset service Tool
+Exec=/home/aliyusbly/Unity-tool/Unity/.venv/bin/python /home/aliyusbly/Unity-tool/Unity/Unity/app.py
+Path=/home/aliyusbly/Unity-tool/Unity/Unity
+Icon=/home/aliyusbly/Unity-tool/Unity/Unity/Icon.jpeg
+Terminal=false
+Categories=Development;Engineering;
+StartupNotify=true
